@@ -1,4 +1,4 @@
-# Rithika Guggilla Portfolio
+# Portfolio
 
 Welcome to my personal portfolio website! This website showcases my projects, skills, and provides a way to get in touch with me. Built using **HTML, CSS, and JavaScript**, it features interactive elements, YouTube video integration, and a contact form.
 
